@@ -99,21 +99,11 @@ To identify customer purchasing trends and provide actionable recommendations to
 
 ---
 
-## 📂 Project Structure
 
-Customer-Shopping-Analysis/
-│
-├── 📁 data/
-├── 📁 python_scripts/
-├── 📁 sql_queries/
-├── 📁 powerbi_dashboard/
-├── 📁 images/
-└── README.md
 
 
 
 
     
 
-### 📷 Dashboard Preview
-*(Add your Power BI screenshot here)*  
+

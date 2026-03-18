@@ -72,8 +72,9 @@ To identify customer purchasing trends and provide actionable recommendations to
   - Line graphs
 
 
-  ### 📷 Dashboard Preview
-*(Add your Power BI screenshot here)* 
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 
 ---
